@@ -1,6 +1,6 @@
-#My Open Source Contributions
+# My Open Source Contributions
 
-##[WikipediaLibrary/TWLight](https://github.com/WikipediaLibrary)
+## [WikipediaLibrary/TWLight](https://github.com/WikipediaLibrary)
 
 **Merged** [Fixed T240598: Send content of comments in emails #390](https://github.com/WikipediaLibrary/TWLight/pull/390)
 
@@ -15,6 +15,6 @@
 **Merged** [Fixed access code emails for translation T220087 #373](https://github.com/WikipediaLibrary/TWLight/pull/373)
 
 
-##[WikipediaLibrary/hashtags](https://github.com/WikipediaLibrary/hashtags)
+## [WikipediaLibrary/hashtags](https://github.com/WikipediaLibrary/hashtags)
 
 **Merged** [Added space below messages #54](https://github.com/WikipediaLibrary/hashtags/pull/54)
