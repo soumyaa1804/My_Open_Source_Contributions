@@ -1,5 +1,7 @@
 # My Contributions to Open Source Projects ordered by latest
 
+**Merged** [Add docker-compose build in README.md #336](https://github.com/wikimedia/ores/pull/336#event-3015548926)
+
 **Merged** [indic-wscontest: Fix mobile view](https://phabricator.wikimedia.org/T243656)
 
 **Merged** [test_user_view_no_coordinators added in users/tests/ #397](https://github.com/WikipediaLibrary/TWLight/pull/397)
