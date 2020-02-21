@@ -1,7 +1,7 @@
 # My Contributions to Open Source Projects ordered by latest
 
 | Status     | Issues | Project |
-| ---------  | ------ | ------- |
+| :---------:  | :------: | :-------: |
 | **Merged** | [Replace jquery with vanilla JS in nav.jsx #3769](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/3769) | [WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard) |
 | **Merged** | [Add docker-compose build in README.md #336](https://github.com/wikimedia/ores/pull/336#event-3015548926) | [Ores](https://github.com/wikimedia/ores/pull/336#event-3015548926) | 
 | **Merged** | [indic-wscontest: Fix mobile view](https://phabricator.wikimedia.org/T243656) | [indic-wscontest](https://gerrit.wikimedia.org/r/#/admin/projects/labs/tools/indic-wscontest) | 
