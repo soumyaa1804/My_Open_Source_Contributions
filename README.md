@@ -1,4 +1,4 @@
-# My Contributions to Open Source Projects ordered by latest in project under Wikimedia Foundation
+# My Contributions to Open Source Projects ordered by latest in projects under Wikimedia Foundation
 
 | Status     | Issues | Project |
 | :---------:  | :------: | :-------: |
